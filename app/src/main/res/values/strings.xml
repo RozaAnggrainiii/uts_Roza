@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="indonesia">Indonesia</string>
+    <string name="malaysia">Malaysia</string>
+    <string name="thailand">Thailand</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="singapura">Singapura</string>
+    <string name="filipina">Filipina</string>
+    <string name="laos">Laos</string>
+    <string name="brunei">Brunei Darussalam</string>
+    <string name="kamboja">Kamboja</string>
+    <string name="timorleste">Timor Leste</string>
+    //desc char
+    <string name="desc_indonesia">ndonesia merupakan negara kepulauan terbesar di dunia dengan 17.508 pulau yang dihuni lebih dari 360 suku bangsa.</string>
+    <string name="desc_malaysia">Malaysia adalah sebuah negara federal yang terdiri dari tiga belas negeri (negara bagian) dan tiga wilayah federal di Asia Tenggara dengan luas 330.803 km persegi.</string>
+    <string name="desc_thailand">Thailand merupakan satu-satunya negara di kawasan Asia Tenggara yang tak pernah dijajah.</string>
+    <string name="desc_vietnam">Negara Vietnam merupakan negara agraris di kawasan Asia Tenggara yang membentang membentuk huruf S di sepanjang Pantai Timur Jazirah Indocina</string>
+    <string name="desc_singapura">Singapura adalah negara kepulauan yang terletak di ujung selatan Semenanjung Malaya, berjarak 137 kilometer di utara khatulistiwa.</string>
+    <string name="desc_filipina">Filipina adalah sebuah negara kepulauan di Asia Tenggara yang berada di lingkar pasifik barat. Filipina dikuasai oleh Kerajaan Spanyol selama 265 tahun mulai dari tahun 1565 hingga tahun 1821</string>
+    <string name="desc_laos">Laos adalah sebuah Negara Republik yang dikelilingi oleh daratan dan terletak di bagian utara Semenanjung Indochina. </string>
+    <string name="desc_brunei">Brunei Darussalam terletak di Barat Laut pantai Utara Kalimantan - 442 km di sebelah Utara equator (khatulistiwa).</string>
+    <string name="desc_kamboja">Kamboja adalah sebuah negara kerajaan monarki konstitusional dengan sistem trias politica.</string>
+    <string name="desc_timorleste">Timor Leste adalah sebuah negara yang terletak di bagian timur Pulau Timor, benua Asia bagian Tenggara (Asia Tenggara).</string>
+    //profile
+    <string name="roza">Roza Angraini</string>
+    <string name="desc_roza">NIM : 2010031806035  E-Mail : angrainiroza6@gmail.com</string>
+</resources>
+
